@@ -27,15 +27,7 @@ The Λ-shaped relaxation time in SLG-on-Au mirrors the gate-dependent contact re
 
 ---
 
-## Repository Structure
-Graphene-OPOP-Analysis/
-├── README.md                          ← Project overview (this file)
-├── fitting/
-│   ├── README.md                      ← Fitting code documentation
-│   ├── BasicFittingRMSEAnalysis.m     ← TTM bi-exponential fitting + RMSE analysis
-│   ├── Fittinginputdata.xlsx          ← OPOP raw data (7 gate voltages)
-│   └── OPOP_ML_rawdata.xlsx           ← Additional OPOP measurement data
-└── (more categories to be added)
+
 
 ---
 
